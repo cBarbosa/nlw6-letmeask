@@ -49,3 +49,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 yarn add node-sass@^5.0.0
 yarn add react-router-dom
 yarn add @types/react-router-dom -D (Pendência de desenvolvimento)
+yarn add classnames
